@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **cahuzac.remi@gmail.com**
 
-- 📄 Know about my experiences [Master MIAGE]
+- 📄 Know about my experiences [Master MIAGE Aix-Marseille]
 
 
 <h3 align="left">Languages and Tools:</h3>
